@@ -1,0 +1,3 @@
+D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/CMakeFiles/chess_clion.dir
+D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="chess_clion_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chess_clion">
+				<Option output="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/chess_clion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 chess_clion"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chess_clion/fast">
+				<Option output="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/chess_clion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 chess_clion/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;D:/kod/Programy C++/chess-CLTV/chess(clion)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/engine/consoleChess.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/engine/consoleChess.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/engine/engine.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/engine/engine.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/mains/main.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/bishop.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/bishop.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/king.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/king.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/knight.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/knight.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/pawn.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/pawn.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/piece.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/piece.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/queen.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/queen.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/rook.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/pieces/rook.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/player/compPlayer.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/player/compPlayer.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/player/humanPlayer.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/player/humanPlayer.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/player/player.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/player/player.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/board.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/board.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/moveAnalyzer.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/moveAnalyzer.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/moveHandler.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/moveHandler.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/vector2.cpp">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/rest/vector2.h">
+			<Option target="chess_clion"/>
+		</Unit>
+		<Unit filename="D:/kod/Programy C++/chess-CLTV/chess(clion)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
